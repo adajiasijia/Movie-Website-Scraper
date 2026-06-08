@@ -30,6 +30,5 @@ re	正则表达式，用于文本格式清洗
 
 🚀 快速开始
 安装依赖
-
 pip install requests lxml
-python tmdb_top_movies_crawler.py
+
